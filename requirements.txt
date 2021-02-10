@@ -5,7 +5,7 @@ certifi==2020.6.20
 cffi==1.14.1
 chardet==3.0.4
 coverage==5.3
-cryptography==3.2
+cryptography==3.3.2
 docker==4.3.1
 falcon==2.0.0
 hug==2.6.1
